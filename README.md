@@ -4,4 +4,4 @@
 
 This repository is dedicated to learning and practicing concepts related to version control
 
-Solving merge conflicts is soooooo hard!
+Solving merge conflicts takes conscious effort, but I can do it!
